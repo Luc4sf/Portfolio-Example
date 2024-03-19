@@ -4,7 +4,7 @@
 
 > :rocket: Portfolio project made as part of the Frontend Master course from Dev Samurai.
 > This project's objective was to learn how to make a responsive website with Sass.
-> Technologies used were HTML, Sass and JavaScript, as well as EmailJS API to send the emails.
+> Technologies used were HTML, Sass, JavaScript and the Owl Carousel plugin, as well as EmailJS API to send the emails.
 
 ## Versioning
 
